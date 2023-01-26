@@ -1,0 +1,4 @@
+mkdir direct
+cd direct
+touch f1
+
